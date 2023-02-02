@@ -1,0 +1,12 @@
+html {
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.container-fluid {
+    padding-right: calc(var(--bs-gutter-y) * .5);
+    padding-left: calc(var(--bs-gutter-y) * .5);
+    margin-right: 0;
+    margin-left: 0;
+    height: 100%;
+}
