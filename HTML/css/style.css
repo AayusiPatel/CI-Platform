@@ -9,7 +9,12 @@ html {
     }
     .mform {
         margin-top: auto;
-        padding-top: 70px;
         margin-bottom: auto;
+        max-height: 100vh;
     }
+}
+
+.mform {
+    margin-top: auto;
+    margin-bottom: auto;
 }
